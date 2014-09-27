@@ -6,8 +6,6 @@ The program uses reactive programming techniques that enable event-driven progra
 
 From the Android UI perspective, it uses Navigation Drawer to easily navigate through the app, single Activity for the context and Fragments for particular views. There's also a SettingsManager that serves as a global context beyond Application context. The app supports both smartphones and tablets, portrait and landscape.
 
-Total time: 6h 45min
-
 ##TODO list
 
 - make DAO actions (loading, deleting etc.) use Observables to update the UI (loading progress bar)

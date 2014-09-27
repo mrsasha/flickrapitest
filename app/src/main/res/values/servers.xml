@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="flicker_server">https://api.flickr.com/services/rest</string>
-    <string name="flicker_apikey">ac559bc52e1db4991a2495344597836a</string>
-    <string name="flicker_secret">d8aae686c29b9d6b</string>
+    <string name="flicker_apikey"></string>
 </resources>
