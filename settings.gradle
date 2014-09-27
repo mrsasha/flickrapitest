@@ -1,0 +1,2 @@
+include ':app', ':DaoGenerator2'
+project(':DaoGenerator2').projectDir = new File('DaoGenerator')

@@ -1,0 +1,5 @@
+<resources>
+
+    <item name="fragment_photoitem" type="layout">@layout/fragment_photoitem_grid</item>
+
+</resources>
